@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">register2</string>
+    <string name="welcome">welcome store manager</string>
+    <string name="select">select</string>
+    <string name="service">service</string>
+    <string name="add_product">add product</string>
+    <string name="track_order">track order</string>
+
+</resources>
